@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.slaymakergroup.com/rental-equipment/backhoes/");
+header("Location: http://westpointcontractors.com");
 die();
 ?>
