@@ -1,4 +1,4 @@
 <?php
-header("Location: http://westpointcontractors.com");
+header("Location: https://www.walmart.com/ip/Mainstays-Upholstered-Metal-Headboard-Multiple-Sizes/488974202");
 die();
 ?>
